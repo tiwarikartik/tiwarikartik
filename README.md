@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Practicing my Coding Skills
+- 🔭 I’m currently Practicing my Coding Skills
 - 🌱 I’m currently learning JavaScript
 
 <!--
