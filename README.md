@@ -2,6 +2,8 @@
 
 - 🔭 I’m currently Practicing my Coding Skills
 - 🌱 I’m currently learning JavaScript
+- ![image](https://user-images.githubusercontent.com/76511000/125799339-5638b871-7e60-406c-9bd3-3141bd649a53.png)
+
 
 <!--
 **tiwarikartik/tiwarikartik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
